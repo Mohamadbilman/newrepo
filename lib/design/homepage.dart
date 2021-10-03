@@ -21,13 +21,13 @@ class _HomePageState extends State<HomePage> {
     return SingleChildScrollView(
       scrollDirection: Axis.vertical,
       child: Container(
-        height: screenHeight + 400,
+        height: 1050,
         width: screenWidth,
         child: Column(
           children: [
             const CarouselWidget(),
             Container(
-              height: screenHeight,
+              height: screenHeight - 20,
               width: screenWidth - 20,
               decoration: const BoxDecoration(
                   borderRadius: BorderRadius.only(

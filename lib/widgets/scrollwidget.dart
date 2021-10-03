@@ -20,7 +20,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("Iphone 13"),
               subtitle: Text("Gold"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/1.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/1.jpg")),
             ),
           ),
           Container(
@@ -29,7 +29,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("Iphone 13 pro"),
               subtitle: Text("white"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/2.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/2.jpg")),
             ),
           ),
           Container(
@@ -38,7 +38,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("Iphone 13 pro max"),
               subtitle: Text("black"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/3.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/3.jpg")),
             ),
           ),
           Container(
@@ -47,7 +47,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("Iphone 13 pro"),
               subtitle: Text("black & gold"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/4.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/4.jpg")),
             ),
           ),
           Container(
@@ -56,7 +56,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("iphone 12"),
               subtitle: Text("white & gold"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/5.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/5.jpg")),
             ),
           ),
           Container(
@@ -65,7 +65,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("iphone 12"),
               subtitle: Text("white & gold"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/6.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/6.jpg")),
             ),
           ),
           Container(
@@ -74,7 +74,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("Iphone 13 pro"),
               subtitle: Text("black"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/1.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/1.jpg")),
             ),
           ),
           Container(
@@ -83,7 +83,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("iphone 12 pro max"),
               subtitle: Text("white"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/2.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/2.jpg")),
             ),
           ),
           Container(
@@ -92,7 +92,7 @@ class _ScrollWidgetState extends State<ScrollWidget> {
               title: Text("iphone 12 mini"),
               subtitle: Text("black"),
               leading: Image(
-                  width: 50, height: 50, image: AssetImage("lib/images/3.jpg")),
+                  width: 50, height: 50, image: AssetImage("images/3.jpg")),
             ),
           ),
         ],

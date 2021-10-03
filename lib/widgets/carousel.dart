@@ -16,22 +16,22 @@ class _CarouselWidgetState extends State<CarouselWidget> {
       items: [
         Container(
             margin: const EdgeInsets.all(10),
-            child: const Image(image: AssetImage("lib/Images/1.jpg"))),
+            child: const Image(image: AssetImage("Images/1.jpg"))),
         Container(
             margin: const EdgeInsets.all(10),
-            child: const Image(image: AssetImage("lib/Images/2.jpg"))),
+            child: const Image(image: AssetImage("Images/2.jpg"))),
         Container(
             margin: const EdgeInsets.all(10),
-            child: const Image(image: AssetImage("lib/Images/3.jpg"))),
+            child: const Image(image: AssetImage("Images/3.jpg"))),
         Container(
             margin: const EdgeInsets.all(10),
-            child: const Image(image: AssetImage("lib/Images/4.jpg"))),
+            child: const Image(image: AssetImage("Images/4.jpg"))),
         Container(
             margin: const EdgeInsets.all(10),
-            child: const Image(image: AssetImage("lib/Images/5.jpg"))),
+            child: const Image(image: AssetImage("Images/5.jpg"))),
         Container(
             margin: const EdgeInsets.all(10),
-            child: const Image(image: AssetImage("lib/Images/6.jpg")))
+            child: const Image(image: AssetImage("Images/6.jpg")))
       ],
       options: CarouselOptions(
           enlargeCenterPage: true,
